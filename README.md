@@ -9,7 +9,7 @@
 
 **Datasets:**
 
-The training, validation, and test sets including the reference captions and concepts are available here: 
+The training, validation, and test sets including the reference captions and concepts are available here (after signing the End-User Agreement): 
 
 Concept Detection Task: https://www.aicrowd.com/challenges/imageclef-2021-caption-concept-detection
 
